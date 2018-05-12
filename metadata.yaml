@@ -1,0 +1,43 @@
+_repo: Ethics_39551
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Dewey, John
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '446'
+    url: http://www.gutenberg.org/2009/agents/446
+    wikipedia: http://en.wikipedia.org/wiki/John_Dewey
+  - agent_name: Tufts, James Hayden
+    alias: Tufts, James H. (James Hayden)
+    birthdate: 1862
+    deathdate: 1942
+    gutenberg_agent_id: '33955'
+    url: http://www.gutenberg.org/2009/agents/33955
+description: 'The beginnings and growth of morality. Early group life ; Basic activities
+  and agencies ; Group morality : customs or mores ; From custom to conscience; from
+  group morality to personal morality ; The Hebrew moral development ; The moral development
+  of the Greeks ; The Roman contribution to the modern moral consciousness ; Factors
+  and trends in the modern moral consciousness -- Theory of the moral life. The nature
+  of moral theory ; Ends, the good and wisdom ; Right, duty and loyalty ; Approbation,
+  the standard and virtue ; Moral judgment and knowledge ; The moral self -- The world
+  of action. Morals and social problems ; Morals and the political order ; Ethical
+  problems of the economic life ; Collective bargaining and the labor union ; Moral
+  problems of business ; Social control of business and industry ; Toward the future
+  ; Marriage and the family.'
+gutenberg_issued: '2012-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39551'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Ethics'
+title: Ethics
+url: http://www.gutenberg.org/ebooks/39551
